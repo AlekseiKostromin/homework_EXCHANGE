@@ -1,0 +1,67 @@
+[
+  {
+    "currency": "EUR",
+    "rate": 102.28462,
+    "timestamp": "2023-08-22 22:26:48"
+  },
+  {
+    "currency": "USD",
+    "rate": 94.250259,
+    "timestamp": "2023-08-22 22:30:54"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.304332,
+    "timestamp": "2023-08-22 22:34:03"
+  },
+  {
+    "currency": "USD",
+    "rate": 94.250353,
+    "timestamp": "2023-08-22 22:35:26"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.29453,
+    "timestamp": "2023-08-22 22:36:45"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.30066,
+    "timestamp": "2023-08-22 22:37:17"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.304009,
+    "timestamp": "2023-08-22 22:46:47"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.3095,
+    "timestamp": "2023-08-22 22:47:38"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.3095,
+    "timestamp": "2023-08-22 22:47:56"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.82898,
+    "timestamp": "2023-08-22 23:19:15"
+  },
+  {
+    "currency": "EUR",
+    "rate": 102.742629,
+    "timestamp": "2023-08-23 10:58:25"
+  },
+  {
+    "currency": "EUR",
+    "rate": 103.508435,
+    "timestamp": "2023-08-29 12:38:53"
+  },
+  {
+    "currency": "EUR",
+    "rate": 103.696042,
+    "timestamp": "2023-08-29 16:01:38"
+  }
+]
